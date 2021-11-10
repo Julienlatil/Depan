@@ -289,7 +289,11 @@ section {
 #text-carousel-intro-section .caption h2 {
 	letter-spacing: 2px;
 	font-size: 16px;
-	color: #000;
+	text-shadow:   -1px 1px 0 rgb(246, 245, 245),  
+    1px -1px 0 rgb(245, 237, 237),
+    -1px 1px 0 rgb(243, 243, 243),
+     1px 1px 0 rgb(255, 255, 255),
+     1px 1px 10px #000000;color:rgb(0, 0, 0);
 }
 /* End text carousel intro */
 /* ===== End intro ===== */
