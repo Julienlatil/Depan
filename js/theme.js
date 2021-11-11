@@ -91,16 +91,7 @@ $("#owl-intro-text").owlCarousel({
 })
 
 
-// Partner carousel
-$("#owl-partners").owlCarousel({
-    items : 4,
-    itemsDesktop : [1199,3],
-    itemsDesktopSmall : [980,2],
-    itemsTablet: [768,2],
-    autoPlay : 5000,
-    stopOnHover : true,
-    pagination : false
-})
+
 
 // Testimonials carousel
 $("#owl-testimonial").owlCarousel({
