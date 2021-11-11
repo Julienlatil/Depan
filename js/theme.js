@@ -83,7 +83,7 @@ $(window).load(function() {
 // Intro text carousel
 $("#owl-intro-text").owlCarousel({
     singleItem : true,
-    autoPlay : 2000,
+    autoPlay : 3000,
     stopOnHover : true,
     navigation : false,
     navigationText : false,
@@ -136,7 +136,7 @@ new WOW().init();
 
 $('.counter').counterUp({
     delay: 10,
-    time: 3000
+    time: 2000
 });
 
 
