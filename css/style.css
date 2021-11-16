@@ -834,11 +834,13 @@ ul.contact-address {
 	float: left;
 	width: 100%;
 	padding: 0;
-	margin: 15px 0 ;
+	margin: 15px 0;
+	
 }
 ul.contact-address li {
 	padding: 0 0 20px;
 	margin: 0;
+	
 }
 ul.contact-address li:last-child {
 	padding-bottom: 0;
@@ -846,6 +848,7 @@ ul.contact-address li:last-child {
 ul.contact-address li i {
 	margin-right: 10px;
 }
+.linkcon{color: white;}
 /* ===== End contact ===== */
 
 
