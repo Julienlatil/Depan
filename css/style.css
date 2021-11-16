@@ -338,7 +338,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	width: 45px;
 	height: 45px;
 	line-height: 45px;
-	color: #FFF !important;
+	color: #00f0FF !important;
 	font-size: 18px;
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
@@ -1121,3 +1121,5 @@ p.subtitle {
 	transform: rotate(-45deg);
 }
 /* ===== End buttons ===== */
+.iconbleu {color: #00f0FF !important}
+.page-scroll:hover {color: #00f0FF !important}
